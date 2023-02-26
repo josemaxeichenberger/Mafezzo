@@ -1,0 +1,1 @@
+<?php define('DB_HOUST','localhost');define('DB_USER','diretorw_mafezzo');define('DB_PASS','dire0300');define('DB_NAME','diretorw_MafezzoSite');?>

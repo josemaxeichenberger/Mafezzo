@@ -1,0 +1,4 @@
+[24-Feb-2023 11:49:47 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/diretorw/public_html/Mafezzo/painel/valida_login.php on line 8
+[24-Feb-2023 11:51:05 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/diretorw/public_html/Mafezzo/painel/valida_login.php on line 8
+[24-Feb-2023 11:51:26 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/diretorw/public_html/Mafezzo/painel/valida_login.php on line 8
+[24-Feb-2023 11:51:28 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/diretorw/public_html/Mafezzo/painel/valida_login.php on line 8
